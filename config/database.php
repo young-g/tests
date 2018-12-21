@@ -13,13 +13,13 @@ return [
     // 数据库类型
     'type'            => 'mysql',
     // 服务器地址
-    'hostname'        => '127.0.0.1',
+    'hostname'        => 'bdm297464590.my3w.com',
     // 数据库名
-    'database'        => 'dentist',
+    'database'        => 'bdm297464590_db',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'bdm297464590',
     // 密码
-    'password'        => 'root',
+    'password'        => 'byu3928810001458A',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
